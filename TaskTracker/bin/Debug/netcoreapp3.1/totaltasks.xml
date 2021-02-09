@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Name>poop</Name>
+    <WorkersAssigned />
+    <DateCreated>2021-02-04T21:31:29.2877376-05:00</DateCreated>
+    <DateCompleted xsi:nil="true" />
+    <Complete>true</Complete>
+  </Task>
+  <Task>
+    <Name>boil</Name>
+    <WorkersAssigned />
+    <DateCreated>2021-02-04T22:06:52.02961-05:00</DateCreated>
+    <DateCompleted xsi:nil="true" />
+    <Complete>true</Complete>
+  </Task>
+  <Task>
+    <Name>flex</Name>
+    <WorkersAssigned />
+    <DateCreated>2021-02-04T22:09:39.7018765-05:00</DateCreated>
+    <DateCompleted xsi:nil="true" />
+    <Complete>true</Complete>
+  </Task>
+  <Task>
+    <Name>boob</Name>
+    <WorkersAssigned>
+      <Employee>
+        <Name>frank</Name>
+        <AssignedTasks />
+        <Birthday>0001-01-01T00:00:00</Birthday>
+      </Employee>
+      <Employee>
+        <Name>frank</Name>
+        <AssignedTasks />
+        <Birthday>0001-01-01T00:00:00</Birthday>
+      </Employee>
+      <Employee>
+        <Name>frank</Name>
+        <AssignedTasks />
+        <Birthday>0001-01-01T00:00:00</Birthday>
+      </Employee>
+    </WorkersAssigned>
+    <DateCreated>2021-02-04T22:13:42.9643444-05:00</DateCreated>
+    <DateCompleted xsi:nil="true" />
+    <Complete>false</Complete>
+  </Task>
+</ArrayOfTask>
